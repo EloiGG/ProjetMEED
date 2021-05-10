@@ -3,10 +3,10 @@
 // test
 int foo()
 {
-	return -16;
+	return -33;
 }
 
 int foo2()
 {
-	return 45;
+	return 33;
 }
