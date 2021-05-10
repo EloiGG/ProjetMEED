@@ -8,5 +8,5 @@ int foo()
 
 int foo2()
 {
-	return 4;
+	return 45;
 }
